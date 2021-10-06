@@ -1,5 +1,5 @@
 - 🟦 Hi, I’m Aaron.
-- 🟦 I’m interested in aviation & commercial aeroplanes, electronic engineering and computers! 
+- 🟦 I’m interested in aviation & commercial aeroplanes, electronic engineering and computers.
 - 🟦 I’m currently studying BEng Electrical & Electronic Engineering at University of Strathclyde 
 - 🟦 I’ve got plentiful experience building and fixing electronic components such as computers..
 - 🟦 How to reach me ...
