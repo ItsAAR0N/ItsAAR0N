@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aaron Shek</h1>
-<h3 align="center">Currently at University of Strathclyde studying Electrical & Electronic Engineering.</h3>
+<h3 align="center">Currently at University of Strathclyde (GLASGOW) studying Electrical & Electronic Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsaar0n&label=Profile%20views&color=0e75b6&style=flat" alt="itsaar0n" /> </p>
 
-- 🔭 I’m currently working on [VIP4SD-Microgrid-Dashboard](https://github.com/ItsAAR0N/VIP4SD-Microgrid-Dashboard) & [EE273-Prime-Football-Game-PROJECT](https://github.com/ItsAAR0N/EE273-Prime-Football-Game-PROJECT)
+- 🔭 I’m currently working on a C++ 3D graphics engine as additional C++ Practice and personal HTML CV website.
 
 - 🌱 I’m currently learning **C++, Python, HTML**
 
