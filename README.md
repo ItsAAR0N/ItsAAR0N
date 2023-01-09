@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **C++, Python, HTML/CSS, JavaScript**
 
-- ✈ I'm interested in aviation & commercial aeroplanes, electronic engineering and computers.
-
-- 💻 I've got plentiful experience building and fixing electronic components such as computers. 
+- 💻 I've got plentiful experience building and fixing computers and I do electronics as a hobby. 
 
 - 📫 How to reach me **aaron.shek.2020@uni.strath.ac.uk or Discord: ItsAAR0N#1766**
 
