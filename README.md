@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsaar0n&label=Profile%20views&color=0e75b6&style=flat" alt="itsaar0n" /> </p>
 
-- 🔭 I’m currently working on a C++ 3D graphics engine as additional C++ Practice and personal HTML CV website.
+- 🔭 I’m currently working on EE318_MCP.
 
-- 🌱 I’m currently learning **C++, Python, HTML/CSS, JavaScript**
+- 🌱 I’m currently learning **C, C++, Python, HTML/CSS, JavaScript**
 
 - 💻 I've got plentiful experience building and fixing computers and I do electronics as a hobby. 
 
