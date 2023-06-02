@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsaar0n&label=Profile%20views&color=0e75b6&style=flat" alt="itsaar0n" /> </p>
 
-- 🔭 I’m currently working on EE318_MCP.
+- 🔭 I’m currently working on AutoPlant.
 
 - 🌱 I’m currently learning **C, C++, Python, HTML/CSS, JavaScript**
 
